@@ -8,3 +8,5 @@ const myNum2 = 5;
 const resultado = sum(myNum1, myNum2);
 
 console.log(resultado);
+
+//tsc no terminal gera o index.js compilavel pelo navegador
