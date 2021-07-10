@@ -28,3 +28,5 @@ class Data2 {
         this.ano = ano; */
     }
 }
+
+//TypeScript Playground para teste
